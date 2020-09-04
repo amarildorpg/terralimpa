@@ -27,13 +27,13 @@ namespace PagSeguro\Configuration;
 class Wrapper
 {
     const ENV = "sandbox";
-    const EMAIL = "faepenmt@gmail.com";
-    const TOKEN_PRODUCTION = "1c753a3a-3059-4f23-a7c3-e4cf26e2b3fdc99817a04a08bd2e520a5ed1ab972a8e4d25-6be6-432f-9d6d-8fc12ef214a2";
-    const TOKEN_SANDBOX = "EE2F040166C1436CAFAF114FD5585128";
+    const EMAIL = "teste@gmail.com";
+    const TOKEN_PRODUCTION = "xxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxx-xxx-xxxx-xxxx-xxxxxx";
+    const TOKEN_SANDBOX = "xxxxxxxxxxxxx";
     const APP_ID_PRODUCTION = "teste-terra";
-    const APP_ID_SANDBOX = "app5985135234";
-    const APP_KEY_PRODUCTION = "DEB628BA1515262774AF7FBA7E2128B0";
-    const APP_KEY_SANDBOX = "2165B7A39999A12994F8FFB52CEEAF1B";
+    const APP_ID_SANDBOX = "xxxxxxxxxxxx";
+    const APP_KEY_PRODUCTION = "xxxxxxxxxxxxxx";
+    const APP_KEY_SANDBOX = "xxxxxxxxxxxxx";
     const CHARSET = "UTF-8";
     const LOG_ACTIVE = false;
     const LOG_LOCATION = "";
